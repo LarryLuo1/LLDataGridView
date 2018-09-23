@@ -1,0 +1,16 @@
+PODS:
+  - LLDataGridView (0.1.0)
+
+DEPENDENCIES:
+  - LLDataGridView (from `../`)
+
+EXTERNAL SOURCES:
+  LLDataGridView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LLDataGridView: f51f6d10de853a65829be800589063da4757512d
+
+PODFILE CHECKSUM: 3f689d06f4da33fc3b1fe1a01230f3433d361447
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,22 @@
+{
+  "name": "LLDataGridView",
+  "version": "0.1.0",
+  "summary": "A short description of LLDataGridView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LarryLuo1/LLDataGridView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LarryLuo1": "luolei@xueqiu.com"
+  },
+  "source": {
+    "git": "https://github.com/LarryLuo1/LLDataGridView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LLDataGridView/Classes/**/*"
+}
